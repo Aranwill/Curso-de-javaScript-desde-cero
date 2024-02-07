@@ -1,0 +1,31 @@
+/*
+
+TIPOS DE DATOS
+
+SE DIVIDEN EN PRIMITIVOS Y COMPLEJOS
+
+PRIMITIVOS {
+  STRING : cadenas de texto 
+  NUMBER : Numeros
+  BOOLEAN : True o False
+  NULL : NULO 
+  UNDEFINED : Indefinido
+  SYMBOL : Simbolo (Elementos unicos)
+  BIGINT : numeros grandes
+}
+
+
+COMPLEJOS {
+  Objetos
+  Array
+  Function
+}
+
+LA FORMA DE TRABAJAR CON LOS TIPOS DE DATOS SERIA LA SIGUIENTE 
+
+PRIMITIVOS ==> SE PASAN POR VALOR
+
+COMPLEJOS ==> SE PASAN POR REFERENCIA
+
+
+*/
