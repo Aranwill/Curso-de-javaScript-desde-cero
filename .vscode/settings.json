@@ -20,5 +20,6 @@
     "HTML (EEx)",
     "HTML (Eex)",
     "plist"
-  ]
+  ],
+  "livePreview.defaultPreviewPath": "/clase-hola-mundo.html"
 }
